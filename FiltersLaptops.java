@@ -27,7 +27,7 @@ public class FiltersLaptops {
         Scanner scanner = new Scanner(System.in);
         
         System.out.println("Какой критерий хотите применить?:");
-        System.out.println("1 - Цвет");;
+        System.out.println("1 - Цвет");
         System.out.println("2 - Операционная система");
         System.out.println("3 - Объем оперативной памяти");
         System.out.println("4 - Объем жесткого диска");
